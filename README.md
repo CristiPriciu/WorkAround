@@ -6,6 +6,7 @@ WorkAround is a human resources program that returns basic information about an 
 - return the cadre of the of the employee, in other words, whether this employee is entry level, mid level, or senior level. 
 - calculate employee tax rates
 - return employee benefits
+- return employee benefits
 - calculate employee bonuses
 - calculate employee bonuses
 
